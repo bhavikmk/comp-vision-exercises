@@ -1,0 +1,3 @@
+/home/bhavik/projects/cv/src/1readImg/build/CMakeFiles/rebuild_cache.dir
+/home/bhavik/projects/cv/src/1readImg/build/CMakeFiles/edit_cache.dir
+/home/bhavik/projects/cv/src/1readImg/build/CMakeFiles/main.dir

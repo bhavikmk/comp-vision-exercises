@@ -1,0 +1,3 @@
+/home/bhavik/projects/cv/src/2basicFunc/build/CMakeFiles/rebuild_cache.dir
+/home/bhavik/projects/cv/src/2basicFunc/build/CMakeFiles/edit_cache.dir
+/home/bhavik/projects/cv/src/2basicFunc/build/CMakeFiles/main.dir
