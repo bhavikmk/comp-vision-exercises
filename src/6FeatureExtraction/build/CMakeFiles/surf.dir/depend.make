@@ -36,5 +36,14 @@ CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/features2d.hp
 CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/flann/config.h
 CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/flann/defines.h
 CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/flann/miniflann.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/highgui.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/highgui/highgui.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/imgcodecs.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/imgproc.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/imgproc/imgproc.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
 CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/opencv_modules.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/videoio.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/xfeatures2d.hpp
+CMakeFiles/surf.dir/surf.cpp.o: /usr/local/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 

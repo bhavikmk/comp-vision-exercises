@@ -36,5 +36,14 @@ CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/features2
 CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/flann/config.h
 CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/flann/defines.h
 CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/flann/miniflann.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/highgui.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/highgui/highgui.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/imgcodecs.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/imgproc.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/imgproc/imgproc.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
 CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/opencv_modules.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/videoio.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/xfeatures2d.hpp
+CMakeFiles/harris.dir/harris.cpp.o: /usr/local/include/opencv4/opencv2/xfeatures2d/nonfree.hpp
 
