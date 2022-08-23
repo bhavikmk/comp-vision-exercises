@@ -1,19 +1,38 @@
-## Academic Computer vision course code using OpenCV in C++
+## Self taught Computer vision 
 
 ### Chapters
 
-1. Reading images, webcams, videos
-2. Basic operations on images such as changing color scales, applying gaussian blurs, edge detection using canny edge detector, dilating and eroding images.
-3. Resizing, cropping Images
-4. Drawing shapes such as circles, rectangles, lines, and adding text on images
-5. Detection of color in HSV space 
-6. Features extraction and description 
-7. Features tracking 
-8. Object detection 
-9. Complete Project: Object detection and tracking
-10. 3D Reconstruction 
+**Basics of image processing**
+* Reading images, webcams, videos
+* Basic operations on images such as changing color scales, applying gaussian blurs, edge detection using canny edge detector, dilating and eroding images.
+* Resizing, cropping Images
+* Drawing shapes such as circles, rectangles, lines, and adding text on images
+* Detection of color in HSV space 
 
-#### Instructions for using code
+**Features detection and tracking**
+* Features extraction and description using various detectors and descriptors in opencv 
+* Features tracking 
+* Object detection 
+* Complete Project: Object detection and tracking
+
+**Deep learning for computer vision**
+
+* Basic neural nets and machine learning algorithm implementation
+* Object classification and recognition using CNN
+* Image generation using GAN
+
+**3D Reconstruction using deep learning**
+* Upcoming 
+
+#### Requirements
+
+* OpenCV 4+ installed (built from source)
+* Tensorflow
+* Keras
+* Sklearn
+* Numpy, Pandas, Matplotlib
+
+#### Instructions 
 
 Note: I have used ubuntu 20.04 and OpenCV 4.5.5 version. 
 
