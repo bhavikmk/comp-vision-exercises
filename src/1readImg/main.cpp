@@ -10,15 +10,15 @@ int main(){
 
     // Reading Images
 
-    string path= "/home/bhavik/projects/cv/img/apple1.jpg";
-    Mat image;
-    image = imread(path);
-    imshow("Image",image);
-    waitKey(0);
+    // string path= "/home/bhavik/projects/cv/img/apple1.jpg";
+    // Mat image;
+    // image = imread(path);
+    // imshow("Image",image);
+    // waitKey(0);
 
     // Reading webcams
 
-    VideoCapture cap(0);
+    VideoCapture cap(1);
     Mat img;
 
     while(true){

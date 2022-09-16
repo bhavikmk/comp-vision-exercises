@@ -29,7 +29,7 @@ int main(){
     imshow("HSV Img", hsvImg);
     imshow("mask", mask);
 
-    waitKey(0);
+    waitKey(3000);
     
     return 0;
 
