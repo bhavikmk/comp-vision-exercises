@@ -1,4 +1,4 @@
-## Self taught Computer vision 
+## Computer vision 
 
 ### Chapters
 
