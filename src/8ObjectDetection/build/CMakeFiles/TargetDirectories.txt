@@ -1,3 +1,0 @@
-/home/bhavik/projects/cv/src/8ObjectDetection/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/8ObjectDetection/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/8ObjectDetection/build/CMakeFiles/main.dir

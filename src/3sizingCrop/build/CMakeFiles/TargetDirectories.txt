@@ -1,3 +1,0 @@
-/home/bhavik/projects/cv/src/3sizingCrop/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/3sizingCrop/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/3sizingCrop/build/CMakeFiles/main.dir

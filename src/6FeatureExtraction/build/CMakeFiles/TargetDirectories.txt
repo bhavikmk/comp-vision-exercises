@@ -1,4 +1,0 @@
-/home/bhavik/projects/cv/src/6FeatureExtraction/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/6FeatureExtraction/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/6FeatureExtraction/build/CMakeFiles/harris.dir
-/home/bhavik/projects/cv/src/6FeatureExtraction/build/CMakeFiles/surf.dir

@@ -1,3 +1,0 @@
-/home/bhavik/projects/cv/src/4DrawShapes/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/4DrawShapes/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/4DrawShapes/build/CMakeFiles/main.dir

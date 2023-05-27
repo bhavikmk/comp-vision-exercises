@@ -1,3 +1,0 @@
-/home/bhavik/projects/cv/src/5ColorDetection/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/5ColorDetection/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/5ColorDetection/build/CMakeFiles/main.dir

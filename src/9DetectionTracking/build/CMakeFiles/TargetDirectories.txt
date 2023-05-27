@@ -1,3 +1,0 @@
-/home/bhavik/projects/cv/src/9DetectionTracking/build/CMakeFiles/rebuild_cache.dir
-/home/bhavik/projects/cv/src/9DetectionTracking/build/CMakeFiles/edit_cache.dir
-/home/bhavik/projects/cv/src/9DetectionTracking/build/CMakeFiles/main.dir
